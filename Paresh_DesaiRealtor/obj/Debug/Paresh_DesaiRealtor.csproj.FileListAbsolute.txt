@@ -1,0 +1,10 @@
+C:\sites\Ashok Nagre\Paresh_DesaiRealtor\obj\Debug\Paresh_DesaiRealtor.csprojResolveAssemblyReference.cache
+C:\sites\Ashok Nagre\Paresh_DesaiRealtor\bin\Paresh_DesaiRealtor.dll.config
+C:\sites\Ashok Nagre\Paresh_DesaiRealtor\bin\Paresh_DesaiRealtor.dll
+C:\sites\Ashok Nagre\Paresh_DesaiRealtor\bin\Paresh_DesaiRealtor.pdb
+C:\sites\Ashok Nagre\Paresh_DesaiRealtor\bin\Cls_Property.dll
+C:\sites\Ashok Nagre\Paresh_DesaiRealtor\bin\Newtonsoft.Json.dll
+C:\sites\Ashok Nagre\Paresh_DesaiRealtor\bin\Cls_Property.pdb
+C:\sites\Ashok Nagre\Paresh_DesaiRealtor\bin\Newtonsoft.Json.xml
+C:\sites\Ashok Nagre\Paresh_DesaiRealtor\obj\Debug\Paresh_DesaiRealtor.dll
+C:\sites\Ashok Nagre\Paresh_DesaiRealtor\obj\Debug\Paresh_DesaiRealtor.pdb
